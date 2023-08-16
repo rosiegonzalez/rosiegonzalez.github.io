@@ -1,0 +1,30 @@
+html {
+  background-image: url('../public/1.png');
+  
+  background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  background-repeat: no-repeat;
+}
+
+.Body {
+  background-image: url('../public/Rosie.png');
+  height: 25vw;
+  width: 25vh;
+  display: flex;
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.text1{
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.782);
+  top: 0;
+
+}
